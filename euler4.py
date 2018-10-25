@@ -58,20 +58,4 @@ if __name__ == '__main__':
 	p.join()
 
 	print(max(chunk_largest_palidrome_list))
-
-
 	
-
-
-
-
-	# for a in range(1000):
-	# 	for b in range(1000):
-	# 		if check_palindrome(a*b) and a*b > largest_palidrome:
-	# 			largest_palidrome = a*b
-
-	# print(largest_palidrome)
-
-		
-
-
