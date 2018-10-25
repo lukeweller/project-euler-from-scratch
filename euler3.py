@@ -1,7 +1,7 @@
 # i7-4870HQ 4 cores, 8 threads, 2.5 GHz -> 3.7 GHz
-# real	0m0.037s
-# user	0m0.025s
-# sys	0m0.009s
+# real	0m0.229s
+# user	0m0.214s
+# sys	0m0.010s
 
 from math import sqrt
 
